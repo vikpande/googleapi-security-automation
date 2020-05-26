@@ -1,4 +1,4 @@
-# Google Maps API Scanner
+# Google Maps API security test automation
 Determining whether a leaked Google Maps API Key ( often found in index.html/index.php) files is vulnerable to unauthorized access by other applications or not.  
 
 ## How to the code:
