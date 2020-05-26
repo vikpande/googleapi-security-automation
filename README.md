@@ -37,6 +37,10 @@ python3 maps_api_scanner_python3.py
 - Timezone API
 - Roads API
 
+## Google API key security best practices
+- Vulnerability !== Insecured
+- Read this to make your API key more secured : https://support.google.com/googleapi/answer/6310037?hl=en
+
 ## To-do : 
 - Automate JavaScript API vulnerability test
 
@@ -49,5 +53,3 @@ python3 maps_api_scanner_python3.py
 ## Contributions:
 - If you find other Google Maps API's which are not mentioned in this script, please create a new branch, commit your code and send a pull request explaining improvements and benefits.
 
-## Google API key security best practices
-- Read here : https://support.google.com/googleapi/answer/6310037?hl=en 
