@@ -5,12 +5,12 @@ Determining whether a leaked Google Maps API Key ( often found in index.html/ind
 - Clone the repository using the below command on terminal
 
 ```
-https://github.com/vikpande/googleapi-securitytest.git
+https://github.com/vikpande/googleapi-security-automation.git
 ```
 - Change directory to the right folder 
 
 ```
-cd googleapi-securitytest
+cd googleapi-security-automation
 ```
 
 - Open the code in sublime/vscode/pycharm and run the below code/file
